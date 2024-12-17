@@ -1,4 +1,4 @@
-Here is the formatted list with line breaks:
+
 
 1. **Xyenux**  
    **About** - Decentralized Web3 platform focused on blockchain and user empowerment.  
@@ -29,4 +29,4 @@ Here is the formatted list with line breaks:
    [Link](https://iphone-15-pro-website-clone-eight.vercel.app/)  
    [Github](https://github.com/1am-programmer/iPhone-15-Pro-Website-Clone)  
 
-This formatting includes line breaks for each section and makes the list easier to read.
+
