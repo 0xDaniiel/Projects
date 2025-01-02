@@ -15,11 +15,13 @@
 
 4. **Propout**  
    **About** - Real Estate Platform  
-   [Link](https://myproput.com)  
+   [Link](https://mypropout.com)  
    Repo - PRIVATE  
 
 5. **Care Posting**  
    **About** - Health care app and medical AI  
+
+   [Link](https://careposting.com) 
    Repo - PRIVATE  
 
 6. **LiveDocs**  
