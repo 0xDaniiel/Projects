@@ -5,9 +5,7 @@
 
 3.  [**LiveDocs**](https://live-docs-lime.vercel.app/sign-in)   - A live Document Editor.
 
-    [Github](https://github.com/1am-programmer/Live-docs)  
-
 4. [**Brainwave**](https://vercel.com/daniels-projects-6d27f7a3/ai-landing-page)  - AI landing page
- 
-   [Github](https://github.com/1am-programmer/BrainwaveAI-landing-page)  
 
+5. [**CryptoPunks**](https://crypto-punk-rosy.vercel.app/)  -  Redesigned the CryptoPunks website
+  
